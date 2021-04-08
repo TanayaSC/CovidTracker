@@ -25,3 +25,8 @@ pm2 start --name "CovideApp"
 
 ```
 
+``` typescript
+
+console.log('hello world')
+
+```
