@@ -1,0 +1,615 @@
+.ashwagandha-KSM {
+  background-color: rgba(255, 255, 255, 1);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.ashwagandha-KSM .div {
+  background-color: rgba(255, 255, 255, 1);
+  overflow: hidden;
+  background: linear-gradient(180deg, rgb(234.78, 245.23, 170.64) 0%, rgba(54.38, 204.56, 225.04, 0) 100%);
+  width: 1440px;
+  height: 1002px;
+  position: relative;
+}
+
+.ashwagandha-KSM .overlap {
+  position: absolute;
+  width: 1636px;
+  height: 690px;
+  top: 327px;
+  left: 50px;
+}
+
+.ashwagandha-KSM .frame {
+  display: flex;
+  width: 417px;
+  height: 520px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  position: absolute;
+  top: 0;
+  left: 766px;
+  background: linear-gradient(
+    180deg,
+    rgb(79.15, 110.29, 39.52) 0%,
+    rgba(81.34, 114.47, 39.17, 0.97) 3.12%,
+    rgba(84.99, 121.44, 38.6, 0.92) 8.33%,
+    rgba(93.76, 138.18, 37.22, 0.79) 20.83%,
+    rgba(111.65, 172.34, 34.4, 0.54) 46.35%,
+    rgba(119.32, 186.99, 33.2, 0.43) 57.29%,
+    rgba(149.26, 244.16, 28.49, 0) 100%
+  );
+}
+
+.ashwagandha-KSM .ashwagandha-front {
+  position: relative;
+  width: 389px;
+  height: 429px;
+  mix-blend-mode: hard-light;
+  object-fit: cover;
+}
+
+.ashwagandha-KSM .overlap-group {
+  position: absolute;
+  width: 1444px;
+  height: 239px;
+  top: 451px;
+  left: 192px;
+}
+
+.ashwagandha-KSM .element {
+  position: absolute;
+  width: 114px;
+  height: 114px;
+  top: 0;
+  left: 1033px;
+  object-fit: cover;
+}
+
+.ashwagandha-KSM .overlap-2 {
+  position: absolute;
+  width: 1444px;
+  height: 134px;
+  top: 105px;
+  left: 0;
+}
+
+.ashwagandha-KSM .arrow-down-sign-to {
+  position: absolute;
+  width: 67px;
+  height: 64px;
+  top: 39px;
+  left: 1055px;
+  object-fit: cover;
+}
+
+.ashwagandha-KSM .img {
+  position: absolute;
+  width: 275px;
+  height: 73px;
+  top: 0;
+  left: 0;
+}
+
+.ashwagandha-KSM .text-wrapper {
+  position: absolute;
+  top: 18px;
+  left: 65px;
+  font-family: "Doppio One", Helvetica;
+  font-weight: 400;
+  color: #98f71e89;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ashwagandha-KSM .text-wrapper-2 {
+  position: absolute;
+  top: 33px;
+  left: 291px;
+  font-family: "Doppio One", Helvetica;
+  font-weight: 400;
+  color: #fffacf;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ashwagandha-KSM .text-wrapper-3 {
+  position: absolute;
+  width: 1367px;
+  top: 34px;
+  left: 77px;
+  text-shadow: 0px 4px 4px #00000040;
+  mix-blend-mode: screen;
+  background: linear-gradient(180deg, rgb(215.82, 97.92, 235.01) 0%, rgba(97.92, 136.31, 235.01, 0) 100%);
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: "Doppio One", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ashwagandha-KSM .overlap-3 {
+  position: absolute;
+  width: 325px;
+  height: 66px;
+  top: 476px;
+  left: 363px;
+}
+
+.ashwagandha-KSM .rectangle {
+  position: absolute;
+  width: 321px;
+  height: 63px;
+  top: 0;
+  left: 4px;
+  mix-blend-mode: overlay;
+}
+
+.ashwagandha-KSM .subscribe-save {
+  position: absolute;
+  top: 18px;
+  left: 69px;
+  font-family: "Doppio One", Helvetica;
+  font-weight: 400;
+  color: #eaf5aa;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ashwagandha-KSM .rectangle-2 {
+  position: absolute;
+  width: 56px;
+  height: 58px;
+  top: 8px;
+  left: 0;
+  mix-blend-mode: screen;
+  object-fit: cover;
+}
+
+.ashwagandha-KSM .overlap-4 {
+  position: absolute;
+  width: 336px;
+  height: 65px;
+  top: 476px;
+  left: 0;
+}
+
+.ashwagandha-KSM .rectangle-3 {
+  position: absolute;
+  width: 332px;
+  height: 63px;
+  top: 0;
+  left: 4px;
+  mix-blend-mode: overlay;
+}
+
+.ashwagandha-KSM .rectangle-4 {
+  position: absolute;
+  width: 56px;
+  height: 58px;
+  top: 7px;
+  left: 0;
+  mix-blend-mode: screen;
+  object-fit: cover;
+}
+
+.ashwagandha-KSM .text-wrapper-4 {
+  position: absolute;
+  width: 271px;
+  top: 19px;
+  left: 28px;
+  font-family: "Doppio One", Helvetica;
+  font-weight: 400;
+  color: #ebf5abca;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.ashwagandha-KSM .overlap-5 {
+  position: absolute;
+  width: 1440px;
+  height: 200px;
+  top: 0;
+  left: 0;
+}
+
+.ashwagandha-KSM .download {
+  position: absolute;
+  width: 311px;
+  height: 162px;
+  top: 0;
+  left: 577px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+}
+
+.ashwagandha-KSM .rectangle-5 {
+  position: absolute;
+  width: 1440px;
+  height: 200px;
+  top: 0;
+  left: 0;
+  border: 1px solid;
+  border-color: #000000;
+  box-shadow: 0px 4px 4px #00000040;
+  mix-blend-mode: soft-light;
+}
+
+.ashwagandha-KSM .frame-2 {
+  position: absolute;
+  width: 116px;
+  height: 81px;
+  top: 79px;
+  left: 1266px;
+}
+
+.ashwagandha-KSM .cart {
+  position: absolute;
+  width: 45px;
+  height: 46px;
+  top: 55px;
+  left: 1309px;
+  object-fit: cover;
+}
+
+.ashwagandha-KSM .user {
+  position: absolute;
+  width: 43px;
+  height: 43px;
+  top: 57px;
+  left: 1382px;
+  object-fit: cover;
+}
+
+.ashwagandha-KSM .overlap-group-2 {
+  position: absolute;
+  width: 110px;
+  height: 32px;
+  top: 241px;
+  left: 36px;
+}
+
+.ashwagandha-KSM .text-wrapper-5 {
+  position: absolute;
+  width: 110px;
+  top: 0;
+  left: 0;
+  font-family: "Langar", Helvetica;
+  font-weight: 400;
+  color: #534728;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ashwagandha-KSM .dropdown {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 5px;
+  left: 86px;
+  mix-blend-mode: difference;
+  object-fit: cover;
+}
+
+.ashwagandha-KSM .overlap-6 {
+  position: absolute;
+  width: 164px;
+  height: 34px;
+  top: 241px;
+  left: 170px;
+}
+
+.ashwagandha-KSM .text-wrapper-6 {
+  position: absolute;
+  width: 87px;
+  top: 0;
+  left: 77px;
+  font-family: "Langar", Helvetica;
+  font-weight: 400;
+  color: #534728;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ashwagandha-KSM .text-wrapper-7 {
+  position: absolute;
+  width: 87px;
+  top: 2px;
+  left: 0;
+  font-family: "Langar", Helvetica;
+  font-weight: 400;
+  color: #534728;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ashwagandha-KSM .environment {
+  position: absolute;
+  width: 318px;
+  top: 239px;
+  left: 657px;
+  font-family: "Langar", Helvetica;
+  font-weight: 400;
+  color: #534728;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ashwagandha-KSM .text-wrapper-8 {
+  position: absolute;
+  width: 148px;
+  top: 241px;
+  left: 496px;
+  font-family: "Langar", Helvetica;
+  font-weight: 400;
+  color: #534728;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ashwagandha-KSM .text-wrapper-9 {
+  position: absolute;
+  width: 112px;
+  top: 239px;
+  left: 999px;
+  font-family: "Langar", Helvetica;
+  font-weight: 400;
+  color: #534728;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ashwagandha-KSM .text-wrapper-10 {
+  position: absolute;
+  width: 126px;
+  top: 241px;
+  left: 365px;
+  font-family: "Langar", Helvetica;
+  font-weight: 400;
+  color: #534728;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ashwagandha-KSM .overlap-7 {
+  position: absolute;
+  width: 289px;
+  height: 41px;
+  top: 232px;
+  left: 1124px;
+}
+
+.ashwagandha-KSM .rectangle-6 {
+  position: absolute;
+  width: 209px;
+  height: 38px;
+  top: 0;
+  left: 80px;
+  border: 1px solid;
+  border-color: #000000;
+  box-shadow: 0px 4px 4px #00000040;
+  background: linear-gradient(180deg, rgb(255, 250.22, 207.19) 0%, rgba(102.29, 208.04, 201.69, 0) 100%);
+}
+
+.ashwagandha-KSM .search {
+  position: absolute;
+  width: 29px;
+  height: 24px;
+  top: 6px;
+  left: 250px;
+  object-fit: cover;
+}
+
+.ashwagandha-KSM .text-wrapper-11 {
+  position: absolute;
+  width: 112px;
+  top: 9px;
+  left: 0;
+  font-family: "Langar", Helvetica;
+  font-weight: 400;
+  color: #534728;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ashwagandha-KSM .ashwagandha-front-2 {
+  position: absolute;
+  width: 124px;
+  height: 121px;
+  top: 359px;
+  left: 1269px;
+  object-fit: cover;
+}
+
+.ashwagandha-KSM .element-hand-gummy {
+  position: absolute;
+  width: 116px;
+  height: 110px;
+  top: 495px;
+  left: 1273px;
+  object-fit: cover;
+}
+
+.ashwagandha-KSM .element-gummyicons {
+  position: absolute;
+  width: 114px;
+  height: 114px;
+  top: 634px;
+  left: 1275px;
+  object-fit: cover;
+}
+
+.ashwagandha-KSM .text-wrapper-12 {
+  position: absolute;
+  width: 735px;
+  top: 321px;
+  left: 27px;
+  font-family: "Doppio One", Helvetica;
+  font-weight: 400;
+  color: #3c331c;
+  font-size: 64px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ashwagandha-KSM .star {
+  left: 319px;
+  position: absolute;
+  width: 31px;
+  height: 36px;
+  top: 435px;
+  object-fit: cover;
+}
+
+.ashwagandha-KSM .star-2 {
+  left: 363px;
+  position: absolute;
+  width: 31px;
+  height: 36px;
+  top: 435px;
+  object-fit: cover;
+}
+
+.ashwagandha-KSM .star-3 {
+  left: 407px;
+  position: absolute;
+  width: 31px;
+  height: 36px;
+  top: 435px;
+  object-fit: cover;
+}
+
+.ashwagandha-KSM .star-4 {
+  left: 451px;
+  position: absolute;
+  width: 31px;
+  height: 36px;
+  top: 435px;
+  object-fit: cover;
+}
+
+.ashwagandha-KSM .text-wrapper-13 {
+  position: absolute;
+  width: 117px;
+  top: 445px;
+  left: 496px;
+  font-family: "Doppio One", Helvetica;
+  font-weight: 400;
+  color: #534728;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ashwagandha-KSM .p {
+  position: absolute;
+  top: 494px;
+  left: 22px;
+  text-shadow: 0px 4px 4px #00000040;
+  background: linear-gradient(180deg, rgb(255, 250.22, 207.19) 0%, rgba(255, 250.22, 207.19, 0) 100%);
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: "Doppio One", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 23px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ashwagandha-KSM .rec {
+  top: 550px;
+  left: 69px;
+  position: absolute;
+  width: 33px;
+  height: 36px;
+  object-fit: cover;
+}
+
+.ashwagandha-KSM .rec-2 {
+  top: 596px;
+  left: 69px;
+  position: absolute;
+  width: 33px;
+  height: 36px;
+  object-fit: cover;
+}
+
+.ashwagandha-KSM .rec-3 {
+  top: 550px;
+  left: 368px;
+  position: absolute;
+  width: 33px;
+  height: 36px;
+  object-fit: cover;
+}
+
+.ashwagandha-KSM .rec-4 {
+  top: 605px;
+  left: 368px;
+  position: absolute;
+  width: 33px;
+  height: 36px;
+  object-fit: cover;
+}
+
+.ashwagandha-KSM .text-wrapper-14 {
+  position: absolute;
+  top: 694px;
+  left: 318px;
+  text-shadow: 0px 4px 4px #00000040;
+  -webkit-text-stroke: 1px #000000;
+  font-family: "Doppio One", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ashwagandha-KSM .text-wrapper-15 {
+  position: absolute;
+  width: 253px;
+  top: 552px;
+  left: 419px;
+  font-family: "Doppio One", Helvetica;
+  font-weight: 400;
+  color: #fffacfca;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
